@@ -5,6 +5,6 @@ This is an simple android Calendar app that allow user to view all the dates in 
 Demo of the app are given below
 
 #
-<img src="/images/cal#1.PNG" width="188" height="328">
-<img src="/images/cal#2.PNG" width="188" height="328" >
-<img src="/images/cal#3.PNG" width="188" height="328" >
+<img src="/images/cal1.PNG" width="188" height="328">
+<img src="/images/cal2.PNG" width="188" height="328" >
+<img src="/images/cal3.PNG" width="188" height="328" >
